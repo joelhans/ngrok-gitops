@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/name: gitops-demo-gateway
     app.kubernetes.io/part-of: infrastructure
 spec:
-  url: https://gitops-demo.ngrok.app
+  url: https://joelhans.xyz
   bindings:
   - public
   description: "Public gateway for GitOps demo - routes to multiple applications"
