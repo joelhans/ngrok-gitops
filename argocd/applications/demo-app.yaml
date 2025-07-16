@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/joelhans/gitops
+    repoURL: https://github.com/joelhans/ngrok-gitops
     targetRevision: HEAD
     path: apps/demo-app
   destination:
